@@ -56,3 +56,16 @@ nama lain dari bank mandiri adalah bank catur (gabungan dari 4 bank)
 pencadangan liabilitas penting untuk dilakukan untuk menghadapi crisis
 
 ![dictionary](dict.png)
+
+## Menghimpun Dana Sebesar 1600
+![pencatatan_1](dana_1600_1.png)
+
+## Kasus aktivitas bisnis atau keputusan keuangan
+![pencatatan_2](dana_1600_2.png)
+![pencatatan_3](dana_1600_3.png)
+
+# Financial Highlight / Ratio
+Analisa rasio keuangan dan laporan keuangan BRI dalam memahami kinerja BRI
+
+![rasio keuangan](rasio_keuangan.png)
+
