@@ -11,4 +11,5 @@ EDM akan bersinggungan dengan divisi PPM untuk membuat *dashboard*.
 > Analisa laporan keuangan disusun untuk kepentingan intern (manajemen), meliputi analisa neraca (posisi keuangan), analisa laba/rugi (pendapatan & biaya), dan analisa antar laporan
 
 Mengumpulkan dana, Menyalurkan dana, Jasa Bank Lainnya <--> Financial intermediary <--> Pendapatan Bunga, Pendapatan Non Bunga, Biaya Bunga, Biaya Non Bunga: OHC, Biaya Non Bunga: Others
+
 **Liabilities & Equity** <--> Financial intermediary <--> **Asset**
