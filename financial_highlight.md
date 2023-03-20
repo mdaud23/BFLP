@@ -77,7 +77,7 @@ Analisa rasio keuangan dan laporan keuangan BRI dalam memahami kinerja BRI
 - ROE return on equity setelah pajak: laba bersih dari ekuitas yg diinvestasikan
 
 ![rasio keuntungan](rasio_keuntungan.png)
-![rasio_keuntungan](rasio_keuntugnan_2.png)
+![rasio_keuntungan](rasio_keuntugnan_2.jpeg)
 
 - CoC credit cost
 - CoF cost of fund
