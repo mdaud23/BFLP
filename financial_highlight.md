@@ -69,3 +69,4 @@ Analisa rasio keuangan dan laporan keuangan BRI dalam memahami kinerja BRI
 
 ![rasio keuangan](rasio_keuangan.png)
 
+![detail_aset](aset_keuangan.png)
