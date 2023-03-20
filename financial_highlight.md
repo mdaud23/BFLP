@@ -2,7 +2,7 @@
 Financial & Management Accounting Division
 
 # Learning Objective
-> Understand the Financial Highlights to support BRI's business sustainability
+> Understand the Financial Highlights to support BRI's business sustainability \n
 > Siswa mengenal Laporan Keuangan (Neraca dan laba rugi) dan rasio keuangan sebagai alat pengukuran kinerja dan tingkat kesehatan bank
 
 EDM akan bersinggungan dengan divisi PPM untuk membuat *dashboard*.
