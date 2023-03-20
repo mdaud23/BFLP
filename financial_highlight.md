@@ -70,3 +70,55 @@ Analisa rasio keuangan dan laporan keuangan BRI dalam memahami kinerja BRI
 ![rasio keuangan](rasio_keuangan.png)
 
 ![detail_aset](aset_keuangan.png)
+
+## Profitability Ratio
+- Net Interest Margin: pengelolaan asset produktif
+- ROA before tax: pengelolaan total asset
+- ROE return on equity setelah pajak: laba bersih dari ekuitas yg diinvestasikan
+
+![rasio keuntungan](rasio_keuntungan.png)
+![rasio_keuntungan](rasio_keuntugnan_2.png)
+
+- CoC credit cost
+- CoF cost of fund
+
+## Efficiency Ratio
+- LDR loan to deposit ratio
+- LCR liquidity coverage ratio
+
+# KPMM & ATMR
+kewajiban penyediaan modal minimum
+
+aset tertimbang menurut resiko
+
+atmr kredit, atmr pasar, dan atmr operasional
+
+atmr kredit mencatat resiko2 pada aset kredit
+
+atmr pasar terkait risiko suku bunga, risiko nilai tukar, risiko perubahan harga option
+
+atmr operasional 
+
+# Segment Performance
+kriteria pengelompokkan segmen operasi:
+- sifat produk & jasa
+- sifat proses produksi
+- metode pendistribusian
+- kelompok konsumer produk
+- jenis bidang bisnis
+
+Syarat kuantitatif segmen operasi:
+1. pendapatan per segmen yang dilaporkan >= 10% dari total
+2. nilai absolut laba/rugi per segmen yg dilaporkan >= 10% dari total
+3. jumlah asset per segmen >= 10% dari total
+
+# Tingkat Kesehatan Bank
+peringkat komposit berada pada rentang 1 hingga 5
+
+semakin kecil semakin sehat
+
+# Penutup
+
+![pertanyaan](soal.png)
+![mencoba](try.png)
+![jawaban](ans.png)
