@@ -75,4 +75,28 @@ Sebenernya merchant ga boleh ngambil biaya tambahan, even kartu sama edc nya bed
 
 <!> Ada potensi fitur pengembangan untuk EDC android
 
-## 
+## Negosiasi Merchant
+[]<negosiasi.png>
+
+# Pemasaran Akuisisi Merchant
+
+## EDC Merchant BRI
+[]<edc_merchant.png>
+
+## QRIS BRI
+[]<qris_bri.png>
+[]<qris_bri_2.png>
+[]<qris_bri_3.png>
+[]<qris_bri_4.png>
+[]<qris_bri_5.png>
+
+## Multi-Acquirer BRI
+[]<>
+
+## Dashboard Monitoring Acquiring
+via BRISIM
+[]<>
+
+banyak informasi yang bisa digali
+
+<!> harapannya dashboard bisa lebih baik dan insightful!
