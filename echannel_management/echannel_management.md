@@ -100,3 +100,35 @@ via BRISIM
 banyak informasi yang bisa digali
 
 <!> harapannya dashboard bisa lebih baik dan insightful!
+
+# EDC Merchant BRI (Android)
+- Fitur OTA
+- Fitur Hardware Lengkap
+- Eye Catching
+- Better Complain Handling
+- Jaringan seluler lebih luas
+- Fitur security
+
+# Fitur EDC Merchant
+- Purchase
+- Sale Brizzi
+- Top Up Brizzi
+- QRIS
+- dll
+
+# Jenis EDC FMS Android
+- PAX
+- Verifone
+- Sunmi
+
+# Petunjuk Penggunaan EDC FMS Android
+
+Tarik tunai cuma ada di indomaret. Kalo banyak ada nanti berlawanan dari fungsi adanya EDC
+
+# Prosedur Pendaftaran EDC Merchant
+1 merchant hanya 1 MID induk
+1 outlet 1 MID
+setiap EDC punya TID
+
+# Complain Handling
+Pede, device ga bermasalah. Lebih di sisi data aja
