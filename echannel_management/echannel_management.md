@@ -10,10 +10,10 @@ memasang atau menempatkan EDC/QRIS untuk merchant yang memiliki fisik toko ataup
 Bisnis Acquiring ini diharapkan memperbanyak akseptasi merchant produktif secara massive sehingga berdampak pada CASA yang stabil berdasarkan dari transaksi merchant
 serta meningkatkan fee-based income Bank BRI.
 
-[]<bisnis_acquiring.png>
+![business acquiring](bisnis_acquiring.png)
 
 ## Istilah Bisnis Acquiring
-[]<istilah_bisnis_acquiring.png>
+![istilah](istilah_bisnis_acquiring.png)
 
 BRIVA termasuk payment link
 
@@ -26,7 +26,7 @@ QRIS dinamis itu sudah mengandung nominal, jadi ga perlu input nominal lagi
 - Ritel
 - Mikro
 
-[]<segmen_merchant.png>
+![segmentasi](segmen_merchant.png)
 
 ## Merchant Business Model
 
@@ -36,7 +36,7 @@ off us tuh traksaksi kartu Bank lain di Merchant BRI
 
 fee-based income tuh mengambil berapa persen dari nilai jual sebenernya wkwkwk kalo transaksi pakai kartu di EDC, baru tau kan lu (mungkin ke merchant ya)
 
-[]<merchant_bm.png>
+![business model](merchant_bm.png)
 
 ## Merchant Discount Rate
 pemotongan dari nilai transaksi sebagai jasa pembayaran
@@ -45,21 +45,21 @@ asal-usul fee-based income
 
 fee-based income yg bersih tuh dipotong dlu sama principal
 
-[]<merchant_dr.png>
+![merchant discount rate](merchant_dr.png)
 
 ## MDC ECD Merchant BRI
 
-[]<mdr_1.png>
-[]<mdr_2.png>
+![mdr1](mdr_1.png)
+![mdr2](mdr_2.png)
 
 ## Skema Fee MDR
 
-[]<skema.png>
-[]<kewenangan.png>
+![skema](skema.png)
+![kewenangan](kewenangan.png)
 
 ## Ilustrasi Transaksi
 
-[]<ilustrasi.png>
+![ilustrasi](ilustrasi.png)
 
 principal nge charge juga setiap transaksi (H+1)
 
@@ -68,27 +68,27 @@ MDR Bank BRI kecil
 Sebenernya merchant ga boleh ngambil biaya tambahan, even kartu sama edc nya beda
 
 ## Persebaran Kartu Bank BRI
-[]<sebaran.png>
+![sebaran](sebaran.png)
 
 ## Keunggulan EDC Merchant BRI
-[]<keunggulan.png>
+![keunggulan](keunggulan.png)
 
 <!> Ada potensi fitur pengembangan untuk EDC android
 
 ## Negosiasi Merchant
-[]<negosiasi.png>
+![negosiasi](negosiasi.png)
 
 # Pemasaran Akuisisi Merchant
 
 ## EDC Merchant BRI
-[]<edc_merchant.png>
+![edc_merchant](edc_merchant.png)
 
 ## QRIS BRI
-[]<qris_bri.png>
-[]<qris_bri_2.png>
-[]<qris_bri_3.png>
-[]<qris_bri_4.png>
-[]<qris_bri_5.png>
+![qris bri](qris_bri.png)
+![qris bri 2](qris_bri_2.png)
+![qris bri 3](qris_bri_3.png)
+![qris bri 4](qris_bri_4.png)
+![qris bri 5](qris_bri_5.png)
 
 ## Multi-Acquirer BRI
 []<>
