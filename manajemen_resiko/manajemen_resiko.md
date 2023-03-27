@@ -94,5 +94,100 @@ When you can remove risk, do it. When you can't reduce it
 
 # Overview Manajemen Risiko 2
 
+Darwindrasati - Market and Liquidity Risk
 
+## Kasus SVB
 
+- nasabah narik duit terus, mayoritas start-up
+- terpaksa jual rugi portfolio
+- saham turun karena investor khawatir hal tersebut terus berlanjut
+- SVB banyak menaro surat berharganya di tenor panjang, dampaknya tidak likuid
+- unmatch antara asset (long) dan liabilities (pendek)
+- Cadangan likuiditas SVB tidak bagus
+- hal tersebut terkait dengan risiko pasar dan risiko likuiditas
+
+## Lesson Learnt
+- SVB kurang memitigasi risiko2 yang ada
+
+## Risiko Pasar
+risiko pasar adalah risiko adalah risiko pada posisi neraca dan rek administratif. Pembentuknya: di (what) gambar
+![]()
+![]()
+
+bank hanya terdampak risiko suku bunga dan nilai tukar
+
+liabilities jangka pendek mengikuti rate suku bunga
+
+## Proses Pengelolaan Risiko Pasar
+Identifikasi -> Pengukuran -> Pemantauan -> Pengendalian
+
+## Implementasi Three Lines of Defense
+Front Office -> Middle Office -> Back Office
+
+Ada segregation of duty sehingga bisa saling mengingatkan dan melengkapi
+
+## 2 Portfolio Bank
+Trading Book dan Banking Book
+<!> Butuh teman2 IT di sini untuk membuat tools otomatis, ketika suku bunga gerak... berapa si risk nya
+
+Stress test untuk menentukan pencadangan modal
+
+## Pemantauan dan Pengendalian Risiko Pasir
+
+## Risiko Likuiditas
+![Pengertian Risiko Likuiditas]()
+
+> terkait reputasi dan operasional bisnis
+
+long -> kelebihan likuiditas
+short -> kekurangan likuiditas
+
+penentu long/short:
+makro ekonomi, kebijakan, dan kondisi global
+
+## Pengukuran Rasio Likuiditas
+Pentingnya menempatkan investasi pada instrumen tertentu
+208,49% Likuiditas BRI (Ratas LCR)
+147,31% NSFR 
+pokoknya di atas 100% bagus
+
+LCR kecukupan likuiditas 30 hari
+NSFR kecukupan likuiditas 1 tahun
+
+## Stress Testing Likuiditas
+1. Tentukan general market scenario, dapat dari PPM
+2. LCA dibuat dari asumsi growth ga masuk dan skenario market sangat berat
+
+## Gejala2 Risiko Likuiditas
+LCR terlalu banyak juga tidak bagus karena pendapatan bunga rendah
+
+## Contingency Funding Plan
+
+## Limit2 Risiko
+Ada dari OJK ditambah juga parameter sendiri yang menurut BRI mewakili likuiditas lewat uji statistik (korelasi di atas 35 diambil). Hitungnya dari data historis
+
+Sebaiknya data mewakili kondiri normal dan abnormal
+
+pakai standar deviasi juga sehingga ketemu di limit2 yang ada
+
+then diskusi first, second, und third line. Diajukan kepada direksi
+
+## Pengendalian Resiko Eksternal
+*Narutal Hedging*
+
+## Mitigasi Risk Nilai Tukar
+P buy usd 5 mio
+  sell idr 5 mio x 15000
+BRI sell usd 5 mio
+  buy idr 5 mio x 15000
+
+BRI short usd 5 mio 15000
+rugi bila kurs akhir hari 16000
+untung bila kurs 14000
+
+hedging
+BRI pergi ke Forex beli USD seharga yg dibeli pertamina
+
+<!> beberapa alat pemantauan masi manual, minta data, input, hitung dari excel, harapannya bisa buatin dashboard yang langsung otomasi. Tarik data bisa langsung one click ngitung dan dapet insight
+
+# Overview Manajemen Resiko 3
