@@ -190,4 +190,79 @@ BRI pergi ke Forex beli USD seharga yg dibeli pertamina
 
 <!> beberapa alat pemantauan masi manual, minta data, input, hitung dari excel, harapannya bisa buatin dashboard yang langsung otomasi. Tarik data bisa langsung one click ngitung dan dapet insight
 
-# Overview Manajemen Resiko 3
+# Modul Operational Risk Management 3
+Sigit Prasetyanto
+
+## Learning Objective
+- Menjelaskan Prinsip Manajemen Risiko
+- Menjelaskan Operational Risk Framework
+- Menggunakan Tools Manajemen Risiko
+- Menerapkan Ketentuan Budaya Anti Froud
+- Menerapkan Ketentuan Business Continuity Management
+- Menerapkan Sistem Manajemen Keselamatan dan Kesehatan Kerja (K3)
+
+ga ada risiko adalah risiko. Risiko baiknya dipelajari lalu diminimalisir.
+
+Pada materi ini fokus ke risiko operasional
+
+## Proses Manajemen Risiko
+identifikasi -> Pengukuran -> Pengendalian -> Pemantauan
+
+Pakai contoh kasus tarik/transfer tunai di teller
+
+## Operational Risk Framework
+risk appetite statement (RAS) Risiko Operasional:
+1. Kerugian Operasional terhadap Pendapatan
+2. BOPO Non CKPN
+
+## Capital Modeling
+![]()
+
+Nanti banyak belajar lagi di sertifikasi MR
+
+## Penguatan 2nd Lines of Defense
+
+## Regional Risk Management
+
+paling kecil tuh unit -> KCP -> KC -> 
+
+## People and Culture
+
+apakah AKHLAK sempurna? tentu tidak, tapi kita selalu mencoba ke arah sana
+
+## Three Lines of Defense
+![]()
+
+## Tools Manajemen Risiko Operasional
+mesti dipikirkan suatu kontrol yg murah, namun efektif
+
+Manajemen Insiden, RCSA, IRU/KRI
+
+Dibahas di forum MR
+
+## Manajemen Insiden
+
+## Forum Manajemen Risiko
+
+## Budaya Anti Fraud
+Ada fraud control system
+
+4 pilar pengendalian fraud
+
+fraud: tindakan menyimbang yg disengaja, untuk memanipulasi bank/nasabah atau pihak lain, dilakukan di lingkungan bank, yg merugikan
+
+## 4 Pilar Pengendalian Fraud
+1. Pencegahan
+2. Deteksi
+3. investigasi, Pelaporan, & Sanksi
+4. Pemantauan, Evaluasi, & Tindak Lanjut
+
+Pengerapan Good Corporate Governance
+Direksi tidak memberikan toleransi (Zero Tolerance) pada Fraud
+
+## The Fraud Triangle
+1. Pressure
+2. Opportunity
+3. Rationalization
+
+## Business Continuity Management
