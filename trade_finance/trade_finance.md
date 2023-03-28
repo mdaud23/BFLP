@@ -68,11 +68,11 @@ ada LC biasa ada LC spesial.
 ## SKBDN
 
 ## Ilustrasi LC Sight (against payment)
-Buyer memberikan jaminan dulu saat apply LC ke Issuing Bank. Bayar tetap nanti saat dah dapet full-set docs. Urusan Seller/Beneficiary nanti sama Issuing Bank
+Buyer memberikan jaminan dulu saat apply LC ke Issuing Bank. Bayar tetap nanti saat dah dapet full-set docs. Urusan Seller/Beneficiary nanti sama Issuing Bank. Langsung dibayar max 14 hari
 ![]()
 
 ## Ilustrasi LC Usance (against acceptance)
-Bank deals with document only not with the goods
+Bank deals with document only not with the goods. Dibayar berdasar tempo
 ![]()
 
 ## Keuntungan LC bagi Importir/Eksportir
@@ -101,3 +101,55 @@ hukumnya tuh, si pembeli pengen nanti bayarnya... penjual pengen cepet dapet bay
 ## Post Shipment - Seller Financing
 
 ## Supply Chain Financing
+San Fitri - TRB
+
+## Buyer Financing
+Pre and post shipment Financing
+
+# Kalo mau ngajuin LC dateng ke minimal kantor Cabang
+
+## Seller Financing
+Pre dan post shipment Financing
+
+## Trade Facility
+Ada limit Bank Line, risiko ada pada issuing Bank
+
+## Commercial Line Facility
+
+## Supply Chain Financing (SCF)
+atau SCF adalah solusi pembiayaan melalui penggunaan Financial Instruments, Practices, dan Technologies untuk mengoptimalkan pengelolaan working capital dan likuiditas yang terikat pada supply chain process kepada Perusahaan Anchor dan perusahaan supplier.
+
+Bisa juga ke arah buyer. Tapi, nanti urusan mah tetep sama perusahaan anchor aja
+
+SCF... perusahaan anchor tuh beli waktu karena supplier pengen cepet
+
+LC atu SKBDN itu pakai Trade atau Commercial Line Facility
+
+## Target Market SCF
+Bisnis Menengah dan Korporasi
+
+## Skema SCF A/P
+Perusahaan Anchor sebagai pembeli. BRI ternyata juga terlibat
+
+## Kriteria Invoice yang Dibiayai
+
+## SCF AR Partnership
+
+## Garansi
+
+## Financing juga bisa pada proyek pemerintah
+
+## Bank Garansi
+Adanya jaminan dari kontraktor kepada bouwheer
+
+## Ruang Lingkup Asuransi/Pinjaman
+
+## Aplikasi
+- Trade Processing System
+- TI Plus
+
+## Portal BG
+
+## Kaitan studi kasus
+SCF dan SKBDN... apakah perlu kontinu?
+
