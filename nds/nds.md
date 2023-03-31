@@ -24,6 +24,8 @@ login di NDS bisa pakai data dari CS Teller, juga PN
 
 NDS bisa dibuka di intranet uker, atau kalo ada VPN bisa dari rumah. VPN tapi cukup strict
 
+Setiap transaksi Error Correction harus didampingi supervisor
+
 ## Pre-requisite NDS
 ![pre-requisite](pre_requisite.png)
 
