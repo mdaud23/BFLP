@@ -31,3 +31,67 @@ Merchant yang telat settlement akan berakibat ke penagihan kredit customer yang 
 
 Penyampaian Complain
 
+Kategori Merchant
+
+Kategori Risiko Merchant
+
+Chargeback/Sanggahan Transaksi 
+
+## QRIS Settlement
+Settlement H+0 khusus untuk Ultra Mikro
+
+Multi-Acquirer
+
+## Aplikasi BRI Merchant
+One-stop App Solution
+
+1. Pendaftaran Akun
+2. Detail Transaksi
+3. Report Settlement
+4. User Management
+
+## Sesi 3
+Jenny - FST
+
+Implementasi EDC setelah sales
+
+SLA
+
+EBOR
+
+Complain Handling Merchant
+
+void itu pembatalan transaksi/refund
+
+Risk Merchant 
+
+## Sesi 4
+Acquiring Business maksudnya mendapatkan transaksi
+
+Intinya mah memperoleh CASA, Fee-Based income, dan sales volume
+
+ritel tuh merchant yg satuan, kayak kafe... resto... dikasih ibbiz 
+
+Ada mekanisme run robin di EDC partnership
+
+Aggregator dan Direct online acquiring
+
+Biaya pengelolaan uang cash, MDR
+
+## Sesi 5
+Riando Nagara - FST
+
+Retail Payment Product Knowledge
+"e-Banking Product"
+
+semakin banyak pilihan, nasabah semakin memilih BRI sebagai produk unggulan
+
+QRIS
+
+IBBIZ
+
+BRI notifikasi jadi fee-based income juga
+
+BRIMOLA
+
+BRI Smart Billing
