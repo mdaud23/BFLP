@@ -102,3 +102,50 @@ Kitab suci orang IT di BRI (khususnya APP)
 
 <!> ESB masih monolith, harusnya bisa microservice agar supaya composable
 
+# Apps Operation Journey
+24/7 di OPA
+
+## 2020
+Divisi APP didirikan
+
+"Pursuing Better Application Management through DevOps Implementation"
+
+jargon Variability, Visibility, Velocity untuk monitoring dashboard
+
+## 2021
+Setiap memulai tahun baru, ada introspeksi
+
+## 2022
+Towards Smart Apps Operation with Hyperautomation & AIOps
+
+TRO adalah pecahan dari MDO
+
+Semua Divisi pakai SHIELD untuk incident & problem management system
+
+ada masalah, ketauan stakeholder tau < 2 menit
+
+Goalnya: Known Error Database
+
+Operational Culture di Command Center, wajib diketahui oleh pekerja di command center
+
+Inovasi banyaknya di otomasi
+
+# Agile and DevSecOps
+Agile is a way of working
+
+Agile is also a mindset
+
+mindset -> values -> principle -> practice
+
+scrum: release early, learn from feedback, and improve
+
+kanban: rapid turnaround, effective effort allocation, 
+
+lean: eliminate waste, focus on core features, and test early
+
+<!> guild di scrum team ga terlalu terimplementasikan
+
+implementasi DevOps bergantung pada kondisi tim atau perusahaan
+
+After all, it's for happy users
+
