@@ -67,3 +67,17 @@ metaverse
 BRI dah mainnya di ekosistem
 
 Nitia DDB - 08122194983
+
+# UI/UX
+
+kenyamanan kalian saat di dunia digital tidak terlepas dari UI/UX
+
+desain juga harus ada esensinya, misal ningkatin revenue... harus applicable juga
+
+empathy customer-mu!
+
+penyakit brimo, fiturnya terlalu banyak. sebabtu ada revamp nanti
+
+# Open Banking
+
+BRIapi keren
