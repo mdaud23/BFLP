@@ -103,3 +103,5 @@ standar itu perlu untuk sustainability product
 setiap bulan updet library on-premise
 
 data analytics is a journey
+
+<!> data analisis, peluang ekonomi angkutan umum
