@@ -10,3 +10,4 @@ dulu 11 itu spacecraft
 
 sekarang bisa switch2
 
+<!> QRIS di warteg sekitar kosan
