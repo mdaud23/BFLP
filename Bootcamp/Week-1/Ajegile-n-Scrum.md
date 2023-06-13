@@ -37,6 +37,8 @@ Role:
 > Sprint Review
 Review produk atau review apa yang sudah jadi selama 1 kali sprint. Product owner tanya ke customer disini
 
+> UAT
+
 > Sprint Retrospective
 Review orangnya. Komunikasi tim gimana
 
