@@ -23,7 +23,16 @@ IT service targetnya adalah value (outcome), bukan produk (output)
 
 Setiap IT service ya itu harus ada value yang diberikan
 
-framework: mengambil semua, mengambil sebagian, memodifikasi, atau ga ambil samsek. tidak ada kewajiban untuk mematuhi
+**framework**: mengambil semua, mengambil sebagian, memodifikasi, atau ga ambil samsek. tidak ada kewajiban untuk mematuhi
 
-standard: ga boleh dikurangi, ga boleh dimodifikasi
+**standard**: ga boleh dikurangi, ga boleh dimodifikasi. akan diaudit
+
+**Proses**:
+1. Measurable
+2. Specific result
+
+**Role**:
+"A set of responsibilities, activities, and authorities granted to someone"
+
+untuk memetakan role dan proses. ada tools namanya RACI model
 
